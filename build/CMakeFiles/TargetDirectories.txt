@@ -1,0 +1,6 @@
+/home/mayer/myfiles/Programmation/NeuronNet/build/CMakeFiles/rebuild_cache.dir
+/home/mayer/myfiles/Programmation/NeuronNet/build/CMakeFiles/edit_cache.dir
+/home/mayer/myfiles/Programmation/NeuronNet/build/CMakeFiles/test.dir
+/home/mayer/myfiles/Programmation/NeuronNet/build/CMakeFiles/doc.dir
+/home/mayer/myfiles/Programmation/NeuronNet/build/CMakeFiles/NeuronNet-master.dir
+/home/mayer/myfiles/Programmation/NeuronNet/build/CMakeFiles/testNeuronNet.dir
